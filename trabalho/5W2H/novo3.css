@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+nav ul{
+    background: linear-gradient(#f3f4f5,#c3d6df,#99bdcf);
+    list-style-type: none;
+    overflow: hidden;
+}   
+
+body{
+    background-image: url(accc.png);
+}
+
+h2{
+    color:black ;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#img3{
+    position: absolute;
+    top: 50px;
+    left: 800px;
+   
+}
+
+#mds{
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
