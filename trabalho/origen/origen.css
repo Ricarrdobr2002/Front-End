@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding:10px
+     ;
+}
+img{
+    margin-left: 38%;
+}
+
+body{
+    background-image:url(back.jpg) ;
+}
+p{
+    font-size: 30px ;
+}

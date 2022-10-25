@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background:linear-gradient(to left,rgb(42, 83, 216),#accad9);
+    background-size: cover;
+}
+
+#d1{
+    text-align: justify;
+    margin-right:60%;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h1{
+    font-size: 50px;
+    
+}
+
+img{
+    width: 450px;
+    margin-left: 5%;
+}
+
+#dd{
+    flex: auto;
+    float: right;
+    background-image: url(cad.png);
+    background-size: 140%;
+    padding-bottom: 100px;
+    background-position-x: 55%;
+    background-position-y: 33% ;
+    padding-top:10%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+      
+}
+
+#d2{
+    display: block;
+    text-align: justify;
+}
+li{
+    padding-bottom:20px;
+}
+
+
